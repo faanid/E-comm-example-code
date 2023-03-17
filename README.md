@@ -1,5 +1,3 @@
-# E-comm-example-code
-Little Ecommerce website built with Reactjs and used React Router, React Hooks, Custom Hooks, Context, propTypes
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
