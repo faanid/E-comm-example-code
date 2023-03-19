@@ -9,11 +9,11 @@ import { BrowserRouter as Router } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <ContextProvider>
-    <Router>
-      <React.StrictMode>
+    <React.StrictMode>
+      <Router>
         <App />
-      </React.StrictMode>
-    </Router>
+      </Router>
+    </React.StrictMode>
   </ContextProvider>
 );
 reportWebVitals();
